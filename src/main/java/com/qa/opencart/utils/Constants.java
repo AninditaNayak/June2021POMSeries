@@ -13,6 +13,7 @@ public class Constants {
 	public static final  List<String> EXPECTED_ACC_LIST=Arrays.asList("My Account","My Orders","My Affiliate Account","Newsletter");
 	public static final String REGISTER_SUCCESS_MSG="Your Account Has Been Created!";
 	public static final String REGISTER_SHEET_NAME = "Register";
+	public static final String REGISTER_SHEET_NAME2 = "Register";
 	
 	
 	
